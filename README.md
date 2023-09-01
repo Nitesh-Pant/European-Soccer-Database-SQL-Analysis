@@ -1,4 +1,3 @@
-European-Soccer-Database-SQL-Analysis
 # Data Analysis through SQL - Football Match Analysis
 
 This repository contains the results of a data analysis project focused on football match data. The analysis was performed using SQL queries to extract insights and answer various questions related to football matches. The dataset used for this analysis includes information about different football matches, including teams, scores, seasons, dates, and other relevant attributes.
